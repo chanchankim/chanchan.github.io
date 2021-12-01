@@ -2,11 +2,11 @@
 #hellow.py
 
   from selenium import webdriver
-
+  
   import time
-
+  
   import os
-
+  
   doc=open('log.txt','a',encoding='utf-8')
 
   for i in range(1,2):
